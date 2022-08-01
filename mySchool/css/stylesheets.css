@@ -1,0 +1,36 @@
+html,body{
+    padding: 0;
+    margin:0;
+}
+
+h1{
+    text-align: center;
+    font-weight: 600;
+    font-size: 28px;
+    font-family:'patrick';
+}
+
+.controls-menu{
+    padding: auto;
+    background-color: rgb(205, 133, 63);
+}
+
+.form-controls{
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+    background-color: rgb(245, 222, 179);
+}
+
+.form-img-center{
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+.form-img-center{
+    text-align: center;
+    padding-bottom: 12vh;
+}
+
+.form-btn{
+    text-align: center;
+}

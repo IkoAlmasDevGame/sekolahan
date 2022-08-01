@@ -1,0 +1,47 @@
+html,body{
+    padding: 0;
+    margin:0;
+}
+
+h1{
+    text-align: center;
+    font-weight: 600;
+    font-size: 28px;
+    font-family:'patrick';
+}
+
+.controls-menu{
+    padding: auto;
+    background-color: rgb(189, 183, 107);
+}
+
+.form-controls{
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+    background-color: rgb(240, 255, 240);
+}
+
+.header {
+  padding: auto;
+  background-color: rgb(200, 200, 200); 
+}
+
+table{
+    text-align: center;
+    cursor: pointer;
+}
+
+.form-control{
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.form-btn{
+    text-align: center;
+}
+
+.form-img-center{
+    text-align: center;
+    padding-top: 10vh;
+    padding-bottom: 29vh;
+}

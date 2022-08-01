@@ -1,0 +1,16 @@
+html,body{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(180, 171, 174);
+}
+
+i{
+    background-color:white; 
+    border-radius: 5px; 
+    border:solid black;
+}
+
+h1{
+    font:600; 
+    font-family:'patrick';
+}
